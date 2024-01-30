@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekgupta2004&show_icons=true&locale=en" alt="vivekgupta2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgupta2004&" alt="vivekgupta2004" /></p>
+
+![snake gif](https://github.com/vivekgupta2004/vivekgupta2004/blob/output/snake.svg)
